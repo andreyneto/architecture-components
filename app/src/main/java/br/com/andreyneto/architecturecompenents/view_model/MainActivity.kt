@@ -1,8 +1,8 @@
 package br.com.andreyneto.architecturecompenents.view_model
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.SystemClock
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProviders
 import br.com.andreyneto.architecturecompenents.R
 import kotlinx.android.synthetic.main.activity_main.*
